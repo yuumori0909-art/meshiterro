@@ -61,5 +61,5 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
-gem "json", "< 3.0"
+gem "json", "< 4.0"
 gem 'kaminari','~> 1.2.1'
